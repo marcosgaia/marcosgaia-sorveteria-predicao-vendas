@@ -1,0 +1,6 @@
+Temperatura: 30°C, Vendas: 150
+Temperatura: 25°C, Vendas: 120
+Temperatura: 35°C, Vendas: 180
+Temperatura: 28°C, Vendas: 130
+Temperatura: 32°C, Vendas: 160
+Temperatura: 38°C, Vendas: 199
